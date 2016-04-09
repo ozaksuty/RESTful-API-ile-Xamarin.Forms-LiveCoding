@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApi.Views.Insert">
+  <StackLayout Padding="5" Orientation="Vertical">
+    <Entry x:Name="txtName" HorizontalOptions="FillAndExpand" Placeholder="Name"></Entry>
+    <Entry x:Name="txtSurname" HorizontalOptions="FillAndExpand" Placeholder="Surname"></Entry>
+    <DatePicker x:Name="dtpBirthDate" HorizontalOptions="FillAndExpand"></DatePicker>
+    <Editor x:Name="txtAbout" HorizontalOptions="FillAndExpand" HeightRequest="100"></Editor>
+    <Picker x:Name="pckrDapertmanet" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" ></Picker>
+    <Button Text="Add a New Student" HorizontalOptions="FillAndExpand" Clicked="onInsertStudent"></Button>
+  </StackLayout>
+</ContentPage>

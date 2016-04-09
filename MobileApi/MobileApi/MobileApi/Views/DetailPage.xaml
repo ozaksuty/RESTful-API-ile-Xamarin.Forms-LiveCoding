@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApi.Views.DetailPage">
+  <StackLayout>
+    <StackLayout Padding="20,10" Spacing="0" Orientation="Horizontal" HorizontalOptions="FillAndExpand" BackgroundColor="#455A64">
+      <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+        <Label Text="Students" TextColor="#fff" FontSize="24" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+      </StackLayout>
+    </StackLayout>
+    <ListView x:Name="lvStudents" HasUnevenRows="True" BackgroundColor="#455A64">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Padding="5">
+              <StackLayout HeightRequest="70" Spacing="5" Orientation="Horizontal">
+                <Label Text="{Binding FirstCharacter}" TextColor="White" FontSize="50" BackgroundColor="Navy" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" WidthRequest="70"></Label>
+                <StackLayout Spacing="2" WidthRequest="0" HorizontalOptions="FillAndExpand">
+                  <Label Text="{Binding Name}" FontAttributes="Bold"></Label>
+                  <Label Text="{Binding Surname}" FontAttributes="Bold"></Label>
+                  <Label Text="{Binding BirthDate}" LineBreakMode="TailTruncation"></Label>
+                  <Label Text="{Binding About}" LineBreakMode="TailTruncation"></Label>
+                </StackLayout>
+                <Label Text="{Binding RegistrationDate}" WidthRequest="70" FontSize="12"></Label>
+              </StackLayout>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>
