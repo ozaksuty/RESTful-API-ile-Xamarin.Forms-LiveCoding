@@ -1,0 +1,12 @@
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\LiveCoding.Context.dll.config
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\LiveCoding.Context.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\LiveCoding.Context.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\EntityFramework.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\LiveCoding.Model.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\LiveCoding.Model.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\EntityFramework.xml
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\obj\Release\LiveCoding.Context.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\obj\Release\LiveCoding.Context.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\obj\Release\LiveCoding.Context.pdb

@@ -1,0 +1,12 @@
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\LiveCoding.Context.dll.config
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\LiveCoding.Context.dll
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\LiveCoding.Context.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\EntityFramework.dll
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\LiveCoding.Model.dll
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\LiveCoding.Model.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\EntityFramework.xml
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\obj\Debug\LiveCoding.Context.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\obj\Debug\LiveCoding.Context.dll
+c:\users\yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Context\obj\Debug\LiveCoding.Context.pdb

@@ -1,0 +1,14 @@
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Business.dll.config
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Business.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Business.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\EntityFramework.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Context.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Model.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Context.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\LiveCoding.Model.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\EntityFramework.xml
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\obj\Release\LiveCoding.Business.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\obj\Release\LiveCoding.Business.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Business\obj\Release\LiveCoding.Business.pdb

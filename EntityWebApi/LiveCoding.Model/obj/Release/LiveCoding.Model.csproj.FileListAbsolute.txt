@@ -1,0 +1,9 @@
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\LiveCoding.Model.dll.config
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\LiveCoding.Model.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\LiveCoding.Model.pdb
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\EntityFramework.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\EntityFramework.xml
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\obj\Release\LiveCoding.Model.dll
+C:\Users\Yigit\documents\visual studio 2015\Projects\LiveCoding\LiveCoding.Model\obj\Release\LiveCoding.Model.pdb
